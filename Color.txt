@@ -19,3 +19,4 @@ Light Cyan = "\033[96m"
 
 Bold = "\033[1m"
 UnderLine = "033[4m"
+
