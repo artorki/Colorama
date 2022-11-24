@@ -1,2 +1,3 @@
-# Colorama-
+# Colorama!
+
 Python Color Code
